@@ -17,6 +17,7 @@ preprocessamento.cpp :: Diretivas de preprocessamento e notas
 namespace.cpp :: Criação de uso de espaço de nomes
 validacao.cpp :: Validação de dados e cast
 array.cpp :: Declaração de arrays, vetores e operações básicas
+    array_c1.cpp :: Continuação         
 map.cpp :: Implementação da função MAP
 argumento_terminal.cpp :: Passagem de argumentos via terminal
 primeira_classe.cpp :: Criação da primeira classe

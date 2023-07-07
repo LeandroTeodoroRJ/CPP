@@ -52,5 +52,9 @@ int main() {
     cout << x << endl;
     cout << y << endl;
 
+    //Cuidado!
+    // O "<<" também é o operador shift-right, ele é redefinido pelo objeto cout.
+
+
     return 0;
 }

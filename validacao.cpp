@@ -18,5 +18,11 @@ int main() {
     //Validação
     //Não é um número
 
+
+    //Cast
+    //Cuidado!
+    printf("1/2 = %f",(float)(1/2));  //Resultado é 0.000000 cast foi feito depois da operação
+    printf("1/2 = %f",((float)1/2));  //Correto
+
     return 0;
 }
