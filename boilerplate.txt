@@ -1,0 +1,39 @@
+//--------- TITLE ----------
+/*
+Program descrption:
+
+*/
+
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+
+/* 
+<func name> :: (<type and params input list>) -> <output value or void>
+<func name>: Description
+<input param name>: Description
+output value: (<type>) Description
+Call example: <sintax>
+Description: 
+<other notes>
+*/
+// int func(){
+//
+// }
+
+
+/* 
+main :: (int argc, char const *argv[]) -> int
+<func name>: Description
+argc: Number of params in command terminal 
+argv[]: Array of params in command terminal
+output value: (int) 0-Program successful ends
+Call example: ./<program name>
+Description: 
+<other notes>
+*/
+int main(int argc, char const *argv[]){
+
+    return 0;
+}

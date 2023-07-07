@@ -1,0 +1,26 @@
+SUMÁRIO
+c++.sh :: Script para compilação e execução do g++
+boilerplate.txt :: Estrutura básica do código
+hello_world.cpp :: Primeiro exemplo
+saida_de_dados.cpp :: Imprimindo da saída padrão
+variaveis.cpp  :: Declarando variáveis e constantes (tipos primitivos)
+entrada_de_dados.cpp :: Lendo valores na entrada padrão  
+string.cpp :: Trabalhando com strings
+operadores.cpp :: Operadores utilizados no c++
+estrutura_decisao.cpp :: Estruturas de decisao ou desvio de fluxo
+loop_while.cpp :: Estrutura de repetição utilizando o while
+loop_for.cpp :: Estrutura de repetição utilizando o for
+memoria.cpp :: Referência de memória, acesso direto e indireto
+ponteiro.cpp :: Estrutura de ponteiros
+mew.cpp :: Uso do operador new
+preprocessamento.cpp :: Diretivas de preprocessamento e notas
+namespace.cpp :: Criação de uso de espaço de nomes
+validacao.cpp :: Validação de dados e cast
+array.cpp :: Declaração de arrays, vetores e operações básicas
+map.cpp :: Implementação da função MAP
+argumento_terminal.cpp :: Passagem de argumentos via terminal
+primeira_classe.cpp :: Criação da primeira classe
+heranca_classe.cpp :: Herança de classes
+class_boilerplate.cpp :: Estrutura básica de uma classe
+
+
