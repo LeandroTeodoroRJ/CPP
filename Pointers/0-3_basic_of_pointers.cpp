@@ -3,6 +3,10 @@
 using namespace std;
 
 int main(){
+    /* Declaring null pointers */
+    /* variable_type *pointer_name {nullptr}; */
+    /* If you declare without {nullptr} the pointer
+       will return garbage data. */
     int *p1 = new int(100);  /* Alocate on the heap memory with int value 100 */
                              /* Pointer to the heap space */
     cout << "Whats this value? " << p1 << endl;
@@ -18,6 +22,7 @@ int main(){
                  to where stack memory locate? */
     int a = 10; /* Create a int variable */
     p2 = &a;  /* Locate to address variable "a" */
+              /* It's possible declare with line: int *p2 {&a};  */
     cout << "Whats this value? " << p2 << endl;
     cout << "...and" << endl;
     cout << "Whats this value? " << *p2 << "\n" << endl;
